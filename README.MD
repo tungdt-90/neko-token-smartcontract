@@ -161,7 +161,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Tung Do - [tungdt5490@gmail.com](mailto:tungdt5490@gmail.com)
 
-Project Link: [https://github.com/tungdt-90/neko-coin-web3](https://github.com/tungdt-90/neko-coin-web3)
+Project Link: [https://github.com/tungdt-90/neko-token-smartcontract](https://github.com/tungdt-90/neko-coin-web3)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
